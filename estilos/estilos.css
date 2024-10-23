@@ -2,7 +2,7 @@ body{
     text-align: center;
 
     font-family:Arial, Helvetica, sans-serif;
-    color:bisque;
+    color:red;
 }
 
 p{
@@ -10,7 +10,7 @@ p{
     color: brown;
 
     font-family: Arial, Helvetica, sans-serif;
-    color: blue;
+    color: rgb(93, 93, 134);
 }
 
 #cabecera{
