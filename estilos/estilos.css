@@ -14,6 +14,7 @@ p{
 }
 
 #cabecera{
-    background-color: aqua;
+    background: aqua url("logo.png");
+    margin-bottom: 200px;
 
 }
