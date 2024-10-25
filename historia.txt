@@ -4,7 +4,10 @@ José tiene 20 años y nació en venezuela
 <<<<<<< HEAD
 
 mañana en vida laboral.
-=======
+
 anita tambien 
+
+Main 1
+
 mañana en vida laboral.
->>>>>>> 49e87b5d1d3d56ea7ebbbddb5ca377aecf107fa2
+
