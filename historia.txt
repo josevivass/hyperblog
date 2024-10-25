@@ -1,15 +1,16 @@
 Esta es la historia de José Santana
 
 José tiene 20 años y nació en venezuela
-<<<<<<< HEAD
 
 mañana en vida laboral.
 
 anita tambien 
 
+Experimento 1
 Main 1
 
 Main 2
 
 mañana en vida laboral.
 
+mañana en vida laboral.
