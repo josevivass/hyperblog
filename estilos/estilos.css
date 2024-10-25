@@ -2,7 +2,11 @@ body{
     text-align: center;
 
     font-family:Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
     color:rgb(196, 228, 255);
+=======
+    color:red;
+>>>>>>> 49e87b5d1d3d56ea7ebbbddb5ca377aecf107fa2
 }
 
 p{
@@ -14,6 +18,11 @@ p{
 }
 
 #cabecera{
+<<<<<<< HEAD
     background-color: aqua;
+=======
+    background: aqua url("logo.png");
+    margin-bottom: 200px;
+>>>>>>> 49e87b5d1d3d56ea7ebbbddb5ca377aecf107fa2
 
 }
